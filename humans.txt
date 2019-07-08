@@ -5,7 +5,7 @@
 
     <name> Jared the Guy <twitter>
 	jared@jared.com
-	Devops Engineer
+	
 	
 	git add 
 	
@@ -17,3 +17,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+	Docker, Java Programming
