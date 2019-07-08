@@ -5,7 +5,7 @@
 
     <name> Jared the Guy <twitter>
 	jared@jared.com
-	Devops Engineer
+	
 	
 	git add 
 	
@@ -16,5 +16,5 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
-    jQuery, Modernizr
+	jQuery, Modernizr
 	Machine Learning, AWS, Google Cloud
