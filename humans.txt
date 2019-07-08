@@ -4,7 +4,11 @@
 # TEAM
 
     <name> Jared the Guy <twitter>
-
+	jared@jared.com
+	Devops Engineer
+	
+	git add 
+	
 # THANKS
 
     <name>
