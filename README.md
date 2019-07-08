@@ -18,3 +18,7 @@ updating text
 
 ## GIT HUB Content
 Comparison with Repo
+
+##Contributions 
+
+Fork the repoand raise pull req
