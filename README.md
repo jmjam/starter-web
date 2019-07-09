@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 ##Introduction
 
 This project is used for devops training on udemy
+and a lot of lectures are still coming on. 
 
 ## GIT & GITHub Training
 
