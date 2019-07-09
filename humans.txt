@@ -3,6 +3,9 @@
 
 Hi, I am modifying this file before rebase
 
+Hi, going to insert conflicts in my feature branch
+
+
 # TEAM
 
     <name> Jared the Guy <twitter>
