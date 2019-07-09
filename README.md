@@ -15,6 +15,7 @@ This project is used for devops training on udemy
 
 Devops Training
 updating text
+adding git rebase lectures in git advance part 
 
 ## GIT HUB Content
 Comparison with Repo
