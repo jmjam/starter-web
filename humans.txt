@@ -25,3 +25,5 @@ Hi, going to insert conflicts in my feature branch
 	Machine Learning, AWS, Google Cloud
 
 	Adding important notes on git stash
+	
+	AWS Solution Architect Developer
